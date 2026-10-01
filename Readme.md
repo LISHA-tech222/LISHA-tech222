@@ -12,7 +12,7 @@ Co-inventor on a published patent application · Chennai, India (open to relocat
 | Project | What it is | Proof |
 |---|---|---|
 | [**codebase_qa**](https://github.com/LISHA-tech222/codebase_qa) | Ask questions about a Python/JS repo and get answers with validated source citations: AST + tree-sitter chunking, hybrid retrieval with RRF, MCP tool, LangGraph agent with human-in-the-loop | [Live demo](https://codebase-qa-jgle.onrender.com) · CI on every push · Langfuse tracing · 40-question eval harness (faithfulness 0.99) |
-| [**ai-recipe-generator**](https://github.com/LISHA-tech222/ai-recipe-generator) | LLM recipe generator with OCR ingredient extraction and allergy-aware substitution | Subject of published patent application No. 202641047888 A |
+| [**ai-recipe-generator**](https://github.com/LISHA-tech222/AI_recipe_generator-) | LLM recipe generator with OCR ingredient extraction and allergy-aware substitution | Subject of published patent application No. 202641047888 A |
 
 ### Patent
 
